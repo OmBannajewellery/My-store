@@ -3,7 +3,8 @@
 // Never put a Supabase service_role key or payment secret in this file.
 window.OM_CONFIG = {
   SUPABASE_URL: "https://xewiwghhbltggwbcdmlg.supabase.co",
-  SUPABASE_PUBLISHABLE_KEY: "sb_publishable_8FvLu6wytEZmQzThSGbxlA_XVA-yczJ",  WHATSAPP: "918875843841",
+  SUPABASE_PUBLISHABLE_KEY: "sb_publishable_8FvLu6wytEZmQzThSGbxIA_XVA-yczJ",
   STORE_EMAIL: "rajputsrraj@gmail.com",
+  STORE_MOBILE_NUMBER: "8075843841",
   DELIVERY_CHARGE: 40
 };
